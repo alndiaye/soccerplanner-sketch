@@ -1,0 +1,19 @@
+{
+  "name": "soccerplanner-sketch",
+  "version": "1.0.0",
+  "description": "sketch for a soccer forecast tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d1bernard/soccerplanner-sketch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d1bernard/soccerplanner-sketch/issues"
+  },
+  "homepage": "https://github.com/d1bernard/soccerplanner-sketch#readme"
+}

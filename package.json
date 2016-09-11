@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/d1bernard/soccerplanner-sketch/issues"
   },
-  "homepage": "https://github.com/d1bernard/soccerplanner-sketch#readme"
+  "homepage": "https://github.com/d1bernard/soccerplanner-sketch#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp-nunjucks-render": "^2.0.0"
+  }
 }

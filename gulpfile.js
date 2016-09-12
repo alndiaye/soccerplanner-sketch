@@ -28,7 +28,7 @@ gulp.task('copy:others', function () {
 
 
 gulp.task('templates', function () {
-    return gulp.src('src/templates/*.html')
+    return gulp.src(['src/templates/*.nkj','!src/templates/*-tpl.nkj'])
         .pipe(nunjucksRender({
             path: ['src/templates/'] // String or Array
         }))

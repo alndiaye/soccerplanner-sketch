@@ -18,6 +18,8 @@
   "homepage": "https://github.com/d1bernard/soccerplanner-sketch#readme",
   "devDependencies": {
     "bower": "^1.7.9",
+    "gulp-clean": "^0.3.2",
+    "gulp-help": "^1.6.1",
     "gulp-nunjucks-render": "^2.0.0"
   }
 }
